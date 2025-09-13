@@ -1,2 +1,2 @@
 # simon-demo
-This is a simon for Git &amp; Github class
+This is a simon for Git &amp; Github class.
